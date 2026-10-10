@@ -53,3 +53,7 @@ APK 位于 `app/build/outputs/apk/debug/app-debug.apk`。`tools/build.ps1` 是�
 ## 项目关系
 
 本工具是独立项目，与 Bambu Lab 无隶属关系。不包含 Bambu Handy 安装包、账号凭据、用户日志和截图。
+
+## 开源许可
+
+本项目源码使用 [MIT License](LICENSE)。第三方依赖遵循其各自许可。
