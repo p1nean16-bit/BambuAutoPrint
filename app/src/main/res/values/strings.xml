@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">竹竹定时打印</string>
+    <string name="accessibility_description">仅在你主动导入资源或执行打印计划时，读取 Bambu Handy 的可见控件，浏览设备与模型列表，并按你的计划操作。导入过程不提交打印，不读取或保存账号密码。你可随时在系统设置关闭此服务。</string>
+</resources>
